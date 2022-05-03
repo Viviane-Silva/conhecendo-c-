@@ -1,0 +1,15 @@
+E:\c-sharp\csharp-basico\csharp-basico\bin\Debug\net6.0\csharp-basico.exe
+E:\c-sharp\csharp-basico\csharp-basico\bin\Debug\net6.0\csharp-basico.deps.json
+E:\c-sharp\csharp-basico\csharp-basico\bin\Debug\net6.0\csharp-basico.runtimeconfig.json
+E:\c-sharp\csharp-basico\csharp-basico\bin\Debug\net6.0\csharp-basico.dll
+E:\c-sharp\csharp-basico\csharp-basico\bin\Debug\net6.0\csharp-basico.pdb
+E:\c-sharp\csharp-basico\csharp-basico\obj\Debug\net6.0\csharp-basico.csproj.AssemblyReference.cache
+E:\c-sharp\csharp-basico\csharp-basico\obj\Debug\net6.0\csharp-basico.GeneratedMSBuildEditorConfig.editorconfig
+E:\c-sharp\csharp-basico\csharp-basico\obj\Debug\net6.0\csharp-basico.AssemblyInfoInputs.cache
+E:\c-sharp\csharp-basico\csharp-basico\obj\Debug\net6.0\csharp-basico.AssemblyInfo.cs
+E:\c-sharp\csharp-basico\csharp-basico\obj\Debug\net6.0\csharp-basico.csproj.CoreCompileInputs.cache
+E:\c-sharp\csharp-basico\csharp-basico\obj\Debug\net6.0\csharp-basico.dll
+E:\c-sharp\csharp-basico\csharp-basico\obj\Debug\net6.0\refint\csharp-basico.dll
+E:\c-sharp\csharp-basico\csharp-basico\obj\Debug\net6.0\csharp-basico.pdb
+E:\c-sharp\csharp-basico\csharp-basico\obj\Debug\net6.0\csharp-basico.genruntimeconfig.cache
+E:\c-sharp\csharp-basico\csharp-basico\obj\Debug\net6.0\ref\csharp-basico.dll
